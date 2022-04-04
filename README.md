@@ -12,7 +12,7 @@ With this Zsh plugin, you simply add two lines to `.zshrc`:
 
 ```zsh
 zplugin ice as"program" pick"bin/git-dsf"
-zplugin light zdharma/zsh-diff-so-fancy
+zplugin light zdharma-continuum/zsh-diff-so-fancy
 ```
 
 This will install `diff-so-fancy` on every account where you use Zshell, and automatically
